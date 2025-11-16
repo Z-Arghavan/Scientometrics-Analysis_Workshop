@@ -105,6 +105,8 @@ For more details about using the same code and explanations of the variables, yo
 👉 [YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
 
 
+### Questions or suggestions
+If you have questions or suggestions, feel free to open an issue in the repository’s issue tracker: [Open an issue](https://github.com/Z-Arghavan/Scientometrics-Analysis_Workshop/issues).  
 [![GitHub Issues](https://img.shields.io/github/issues/Z-Arghavan/Scientometrics-Analysis_Workshop.svg)](https://github.com/Z-Arghavan/Scientometrics-Analysis_Workshop/issues)
 
 
