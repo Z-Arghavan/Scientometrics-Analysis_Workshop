@@ -6,11 +6,11 @@ Follow the steps below to install R and Rstudio tools correctly on your computer
 
 ## 1. About R and RStudio
 
-### What is R  
+### What is R?
 R is a programming language used for statistics, data analysis, and scientific computing.  
 It contains all core functions needed for processing and analysing metadata.
 
-### What is RStudio  
+### What is RStudio?
 RStudio is an integrated development environment that provides a user friendly interface for R.  
 It includes panels for code, plots, files, and the R console.
 
@@ -21,29 +21,24 @@ It includes panels for code, plots, files, and the R console.
 
 ---
 
-## 2. Install R
+## 2. How to install R
 
 1. Open the official R download page:  
    https://cran.r-project.org  
-2. Choose your operating system:  
-   - Windows  
-   - macOS  
-   - Linux  
-3. Download the installer file.  
-4. Run the installer.  
-5. Accept the default settings unless you have a specific reason to change them.  
-6. After the installation completes, open the R application to check that the console loads.
+2. Chosse your closest location.
+3. Choose your operating system and download the installer file.  
+4. Run the installer (Accept the default settings unless you have a specific reason to change them).  
 
 ---
 
-## 3. Install RStudio
+## 3. How to install RStudio
 
 1. Go to the RStudio download page:  
    https://posit.co/download/rstudio-desktop  
 2. Download the free RStudio Desktop version for your operating system.  
-3. Run the installer.  
-4. Complete the installation using the default settings.  
-5. Open RStudio. It will automatically detect your R installation.
+3. Run the installer and complete the installation based on your desired settings.  
+4. Open RStudio. It will automatically detect your R installation (otherwise, you will get an error about compatibility).
+Note that R and Rstudio environmets look visually different. In this tutorual, we use the R language in Rstudio environment. 
 
 ## 5. Install the Bibliometrix Package
 
