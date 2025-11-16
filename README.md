@@ -54,12 +54,12 @@ Follow the steps below to install it:
    install.packages("bibliometrix")
 After installation completes, load the package with:
 
-r
-Copy code
+   ```r
+
 library(bibliometrix)
 To confirm the package is working, check the help page:
 
-
+```r
 ?bibliometrix
 You are now ready to import metadata files and run scientometric analysis.
 
