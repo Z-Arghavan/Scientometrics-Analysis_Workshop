@@ -90,8 +90,16 @@ In fact, when you load the Bibliometrix package, you will first be asked if you 
 
 - Official Bibliometrix documentation  
   https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html
-- Bibliometrix Reference Manual  
+- Bibliometrix Reference Manual (older version)
+  https://cran.r-project.org/web/packages/bibliometrix/bibliometrix.pdf
 
 </details>
 
-For more details using the same code, you can watch my **video tutorials**: https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH
+For more details about using the same code and explanations of the variables, you can watch my **video tutorials**  
+available here:  
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
+
+> 📁 **Workshop Presentation**  
+> The full slide deck can be found here:  
+> [Presentation/Workshop_Presentation.pdf](Presentation/Workshop_Presentation.pdf)
+
