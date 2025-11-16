@@ -4,7 +4,7 @@ Follow the steps below to install R and Rstudio tools correctly on your computer
 
 > 📁 **Workshop Presentation**  
 > The full slide deck can be found here:  
-> [Presentation/Workshop_Presentation.pdf](Presentation/An introduction to Litearture Review and Scientometric Analysis_TUe.pdf)
+> [Presentation/An introduction to Litearture Review and Scientometric Analysis_TUe.pdf](Presentation/An introduction to Litearture Review and Scientometric Analysis_TUe.pdf)
 ---
 
 ## 1. About R and RStudio
