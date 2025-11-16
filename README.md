@@ -58,6 +58,7 @@ After installation completes, load the package with:
 
 
 library(bibliometrix)
+
 To confirm the package is working, check the help page:
 
 
