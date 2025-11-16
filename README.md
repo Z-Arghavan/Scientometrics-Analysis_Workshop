@@ -102,7 +102,7 @@ In fact, when you load the Bibliometrix package, you will first be asked if you 
 ### 📺 Video Tutorials
 
 For more details about using the same code and explanations of the variables, you can watch my video tutorials here:  
-👉 [YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
 
 
 ### Questions or suggestions
