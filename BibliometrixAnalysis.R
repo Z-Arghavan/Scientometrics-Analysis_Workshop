@@ -3,7 +3,8 @@ library('bibliometrix')
 
 myfile <- ("https://bibliometrix.org/datasets/joi.txt")
 
-# Converting the loaded files into a R bibliographic dataframe
+# Converting the loaded files into a R bibliographic dataframe. Keep in mind that for different platforms, e.g., Scopus, Web of Science (WoS), PubMed, Google Scholar and so on, you need to chat the dbsource and format!
+# There is an option to merge them (after removing the duplicates). Merging is not possible in the Biblioshiny.
 M <- convert2df(file=myfile, dbsource="wos",format="plaintext")
 #.....DATA LOADING AND CONVERTING
 file <- ("C:/XXX/yourrepoXXX/testFinal.bib")
