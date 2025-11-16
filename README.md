@@ -1,6 +1,6 @@
 # Installation Guide for R and RStudio  
-This repository uses R and RStudio for bibliometric and scientometric analysis.  
-Follow the steps below to install both tools correctly on your computer.
+This repository contains the instructions used during the workshop for bibliometric and scientometric analysis.  
+Follow the steps below to install R and Rstudio tools correctly on your computer. Then, we can install the _Bibliometrix_ package and start the analysis. 
 
 ---
 
@@ -44,3 +44,26 @@ It includes panels for code, plots, files, and the R console.
 3. Run the installer.  
 4. Complete the installation using the default settings.  
 5. Open RStudio. It will automatically detect your R installation.
+
+## 5. Install the Bibliometrix Package
+
+_Bibliometrix_ package is required for scientometric and bibliometric analysis in Rstudio.
+
+To read more about it, got to https://www.bibliometrix.org/home/
+Follow the steps below to install it:
+
+1. Open **RStudio**.
+2. In the Console panel, type the command below and press Enter:
+   ```r
+   install.packages("bibliometrix")
+After installation completes, load the package with:
+
+r
+Copy code
+library(bibliometrix)
+To confirm the package is working, check the help page:
+
+
+?bibliometrix
+You are now ready to import metadata files and run scientometric analysis.
+
