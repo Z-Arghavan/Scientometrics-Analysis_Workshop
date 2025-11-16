@@ -74,7 +74,7 @@ Otherwise, you can check if the box next to the Bibliometrix under the Packages 
 We have now two choices: (1) using the Biblioshiny or (2) using a code.
 
 
-## 5. Start the Bibliometrix Package
+# 5. Start the Bibliometrix Package
 ### 5.1. Biblioshiny
 To start working with the Biblioshiny app, type the following command in the RStudio Console:
 
@@ -99,9 +99,11 @@ In fact, when you load the Bibliometrix package, you will first be asked if you 
 
 </details>
 
-For more details about using the same code and explanations of the variables, you can watch my **video tutorials**  
-available here:  
-[YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
+### 📺 Video Tutorials
+
+For more details about using the same code and explanations of the variables, you can watch my video tutorials here:  
+👉 [YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
+
 
 
 
