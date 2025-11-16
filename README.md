@@ -85,6 +85,13 @@ In fact, when you load the Bibliometrix package, you will first be asked if you 
 **If you prefer to work with code, you can use the script provided in this repository here:  
 [BibliometrixAnalysis.R](https://github.com/Z-Arghavan/Scientometrics-Analysis_Workshop/blob/main/BibliometrixAnalysis.R)**  
   
-This code is written based on the official documentation published in https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html (and the accompanying Reference Manual).
+<details>
+<summary><strong>Sources used for this script</strong></summary>
 
-For more details, you can watch my **video tutorials**: https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH
+- Official Bibliometrix documentation  
+  https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html
+- Bibliometrix Reference Manual  
+
+</details>
+
+For more details using the same code, you can watch my **video tutorials**: https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH
