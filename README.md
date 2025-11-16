@@ -1,5 +1,5 @@
 # Installation Guide for R and RStudio  
-This repository contains the instructions used during the workshop for bibliometric and scientometric analysis.  
+This repository contains the instructions used during the workshop for *bibliometric and scientometric analysis*.  
 Follow the steps below to install R and Rstudio tools correctly on your computer. Then, we can install the _Bibliometrix_ package and start the analysis. 
 
 ---
