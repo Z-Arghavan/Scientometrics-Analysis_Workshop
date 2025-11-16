@@ -54,7 +54,7 @@ Follow the steps below to install it:
    install.packages("bibliometrix")
 After installation completes, load the package with:
    ```r
-library(bibliometrix)
+   library(bibliometrix)
 To confirm the package is working, check the help page:
 
 
