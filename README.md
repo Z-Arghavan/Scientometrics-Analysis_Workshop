@@ -41,7 +41,7 @@ It includes panels for code, plots, files, and the R console.
 
 Note that R and Rstudio environmets look visually different. In this tutorual, we use the R language in Rstudio environment. 
 
-## 5. Install the Bibliometrix Package
+## 4. Install the Bibliometrix Package
 
 _Bibliometrix_ package is required for scientometric and bibliometric analysis in Rstudio.
 
@@ -70,3 +70,12 @@ Otherwise, you can check if the box next to the Bibliometrix under the Packages 
 We have now two choices: (1) using the Biblioshiny or (2) using a code.
 
 
+## 5. Start the Bibliometrix Package
+### 5.1. Biblioshiny
+To start working with the Biblioshiny app, type the following command in the RStudio Console:
+
+```r
+biblioshiny()
+```
+This will load the Shiny version of the Bibliometrix package in your default browser.
+Please note that Biblioshiny is a convenient and quick way to begin the analysis, but it offers fewer customisation options compared to writing code directly in R.
