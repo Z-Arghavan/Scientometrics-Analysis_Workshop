@@ -1,0 +1,46 @@
+# Installation Guide for R and RStudio  
+This repository uses R and RStudio for bibliometric and scientometric analysis.  
+Follow the steps below to install both tools correctly on your computer.
+
+---
+
+## 1. About R and RStudio
+
+### What is R  
+R is a programming language used for statistics, data analysis, and scientific computing.  
+It contains all core functions needed for processing and analysing metadata.
+
+### What is RStudio  
+RStudio is an integrated development environment that provides a user friendly interface for R.  
+It includes panels for code, plots, files, and the R console.
+
+### Relationship between R and RStudio  
+- R provides the language.  
+- RStudio provides the interface.  
+- R must be installed before RStudio, because RStudio depends on it.
+
+---
+
+## 2. Install R
+
+1. Open the official R download page:  
+   https://cran.r-project.org  
+2. Choose your operating system:  
+   - Windows  
+   - macOS  
+   - Linux  
+3. Download the installer file.  
+4. Run the installer.  
+5. Accept the default settings unless you have a specific reason to change them.  
+6. After the installation completes, open the R application to check that the console loads.
+
+---
+
+## 3. Install RStudio
+
+1. Go to the RStudio download page:  
+   https://posit.co/download/rstudio-desktop  
+2. Download the free RStudio Desktop version for your operating system.  
+3. Run the installer.  
+4. Complete the installation using the default settings.  
+5. Open RStudio. It will automatically detect your R installation.
