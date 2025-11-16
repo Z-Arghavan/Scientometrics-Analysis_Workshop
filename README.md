@@ -61,7 +61,7 @@ To confirm the package is working, check the help page:
 
    ```r
 ?bibliometrix
-
+   ```r
 Otherwise, you can check if the box next to the Bibliometrix under the Packages tab is marked:
 ![Packages Screenshot](images/Bibliometrix.png)
   
