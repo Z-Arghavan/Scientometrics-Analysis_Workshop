@@ -2,6 +2,9 @@
 This repository contains the instructions used during the workshop for *bibliometric and scientometric analysis*.  
 Follow the steps below to install R and Rstudio tools correctly on your computer. Then, we can install the _Bibliometrix_ package and start the analysis. 
 
+> 📁 **Workshop Presentation**  
+> The full slide deck can be found here:  
+> [Presentation/Workshop_Presentation.pdf](Presentation/An introduction to Litearture Review and Scientometric Analysis_TUe.pdf)
 ---
 
 ## 1. About R and RStudio
@@ -99,7 +102,5 @@ For more details about using the same code and explanations of the variables, yo
 available here:  
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
 
-> 📁 **Workshop Presentation**  
-> The full slide deck can be found here:  
-> [Presentation/Workshop_Presentation.pdf](Presentation/Workshop_Presentation.pdf)
+
 
