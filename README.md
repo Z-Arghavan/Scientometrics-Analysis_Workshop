@@ -52,9 +52,11 @@ Follow the steps below to install it:
 2. In the Console panel, type the command below and press Enter:
    ```r
    install.packages("bibliometrix")
+   ```
 After installation completes, load the package with:
    ```r
    library(bibliometrix)
+```
 
 
 To confirm the package is working, check the help page:
