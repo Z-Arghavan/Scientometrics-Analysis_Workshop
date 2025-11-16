@@ -37,14 +37,14 @@ It includes panels for code, plots, files, and the R console.
    https://posit.co/download/rstudio-desktop  
 2. Download the free RStudio Desktop version for your operating system.  
 3. Run the installer and complete the installation based on your desired settings.  
-4. Open RStudio. It will automatically detect your R installation (otherwise, you will get an error about compatibility).
+4. Open RStudio. It will automatically detect your R installation (otherwise, you will get an error about compatibility).  
 Note that R and Rstudio environmets look visually different. In this tutorual, we use the R language in Rstudio environment. 
 
 ## 5. Install the Bibliometrix Package
 
 _Bibliometrix_ package is required for scientometric and bibliometric analysis in Rstudio.
 
-To read more about it, got to https://www.bibliometrix.org/home/
+To read more about it, got to https://www.bibliometrix.org/home/  
 Follow the steps below to install it:
 
 1. Open **RStudio**.
