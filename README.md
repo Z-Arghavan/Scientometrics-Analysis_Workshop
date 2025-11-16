@@ -52,8 +52,8 @@ _Bibliometrix_ package is required for scientometric and bibliometric analysis i
 To read more about it, got to https://www.bibliometrix.org/home/  
 Follow the steps below to install it:
 
-1. Open **RStudio**.
-2. In the Console panel, type the command below and press Enter:
+Open **RStudio** (not R!).
+In the Console panel, type the command below and press Enter:
    ```r
    install.packages("bibliometrix")
    ```
@@ -105,5 +105,6 @@ For more details about using the same code and explanations of the variables, yo
 👉 [YouTube Playlist](https://www.youtube.com/playlist?list=PLm8p4Z96J1LMVlBV_PljUSASiUWSakkmH)
 
 
+[![GitHub Issues](https://img.shields.io/github/issues/Z-Arghavan/Scientometrics-Analysis_Workshop.svg)](https://github.com/Z-Arghavan/Scientometrics-Analysis_Workshop/issues)
 
 
