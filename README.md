@@ -58,12 +58,11 @@ After installation completes, load the package with:
    library(bibliometrix)
 ```
 
-
 To confirm the package is working, check the help page:
 
    ```r
    ?bibliometrix
-
+```
 
 Otherwise, you can check if the box next to the Bibliometrix under the Packages tab is marked:
 ![Packages Screenshot](images/Bibliometrix.png)
