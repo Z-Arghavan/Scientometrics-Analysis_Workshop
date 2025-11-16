@@ -55,14 +55,19 @@ Follow the steps below to install it:
 After installation completes, load the package with:
 
    ```r
-  
+
+
 library(bibliometrix)
 To confirm the package is working, check the help page:
-  
+
+
    ```r
-?bibliometrix
-  
+?bibliometrix  
+
+
 Otherwise, you can check if the box next to the Bibliometrix under the Packages tab is marked:
 ![Packages Screenshot](images/Bibliometrix.png)
   
 We have now two choices: (1) using the Biblioshiny or (2) using a code.
+
+
