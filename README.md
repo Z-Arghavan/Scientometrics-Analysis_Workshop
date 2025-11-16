@@ -53,12 +53,8 @@ Follow the steps below to install it:
    ```r
    install.packages("bibliometrix")
 After installation completes, load the package with:
-
    ```r
-
-
 library(bibliometrix)
-
 To confirm the package is working, check the help page:
 
 
